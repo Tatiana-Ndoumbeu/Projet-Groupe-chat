@@ -1,11 +1,7 @@
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-import java.io.*;
-import java.nio.file.*;
 import java.util.concurrent.*;
 
 public class Receiver {
